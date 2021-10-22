@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/group_info"
+        android:icon="@drawable/btn_group"
+        android:title="@string/group_info"/>
+    <item
+        android:id="@+id/wait_grant"
+        android:icon="@drawable/btn_grant_user"
+        android:title="@string/wait_grant" />
+</menu>

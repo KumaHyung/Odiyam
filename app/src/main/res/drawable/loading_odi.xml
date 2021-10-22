@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/loading_odi1" android:duration="100"/>
+    <item android:drawable="@drawable/loading_odi2" android:duration="100"/>
+    <item android:drawable="@drawable/loading_odi3" android:duration="100"/>
+    <item android:drawable="@drawable/loading_odi4" android:duration="100"/>
+    <item android:drawable="@drawable/loading_odi5" android:duration="100"/>
+    <item android:drawable="@drawable/loading_odi6" android:duration="100"/>
+    <item android:drawable="@drawable/loading_odi7" android:duration="100"/>
+    <item android:drawable="@drawable/loading_odi8" android:duration="100"/>
+</animation-list>

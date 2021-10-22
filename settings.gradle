@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "Sop"
+include ':domain'
+include ':data'
